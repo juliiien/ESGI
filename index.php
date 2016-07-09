@@ -1,3 +1,5 @@
 <?php 	
-	echo "coucou";
+	echo "Bob";
+	echo "Bob";
+	echo "hahha";
 ?>
